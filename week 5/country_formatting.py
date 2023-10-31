@@ -24,8 +24,10 @@ def load_data():
 
 
 def display_data(country_to_data):
-
-
+    lengths_list = []
+    for i in lengths_list.
+    for country, data in country_to_data.items():
+        print(f"{}")
 
 
 main()
